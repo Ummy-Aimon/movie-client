@@ -70,9 +70,9 @@ const MovieListContainer = styled.div`
   justify-content: space-evenly;;
 `;
 const Placeholder = styled.img`
-  width: 100px;
-  height: 100px;
-  margin: 100px;
+  width: 600px;
+  height: 600px;
+  // margin: 00px;
   // opacity: 50%;
 `;
 function App() {
